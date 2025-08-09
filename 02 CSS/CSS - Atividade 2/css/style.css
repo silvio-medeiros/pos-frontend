@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: darkslategray;
+}
+
+h1 {
+    font-family: "Audiowide", sans-serif;
+    font-size: 30px;
+    color: darkblue;
+}
+
+h2 {
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: darkblue;
+    border-radius: 5px;
+}
+
+a, a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.text-center {
+    text-align: center;
+}
+
+h1 a,
+h1 a:visited {
+    color: white;
+}
+
+h2 a,
+h2 a:visited {
+    color: lightskyblue;
+}
+
+h1:hover a,
+h2:hover a {
+    color: darkblue;
+}
+
+.copyright {
+    font-style: italic;
+    font-weight: bold;
+}

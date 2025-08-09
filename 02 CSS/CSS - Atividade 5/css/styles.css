@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    background: darkslategray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.login-card {
+    background: slategrey;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px black
+}
+
+.input-field {
+    background: lightslategray;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
